@@ -17,9 +17,6 @@ To develop a Recurrent Neural Network model for stock price prediction.
     - Volume
 - Based on the given features, develop a RNN model to predict the price of stocks in future
 
-## Neural Network Model
-![](3.jpg)
-
 ## DESIGN STEPS
 
 - **STEP 1:** Import the required packages
@@ -31,8 +28,8 @@ To develop a Recurrent Neural Network model for stock price prediction.
 
 
 ## PROGRAM
-**Developed by :** Kaushika A <br>
-**Register No. :** 212221230048
+**Developed by :** Shankar Saradha 
+**Register No. :** 212221240052
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
